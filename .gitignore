@@ -1,0 +1,11 @@
+OneDrive/ 
+AppData/ 
+*.lnk 
+*.log 
+*.exe 
+*.ini 
+desktop.ini 
+VirtualBox VMs/ 
+Saved Games/ 
+Videos/ 
+.vscode/ 

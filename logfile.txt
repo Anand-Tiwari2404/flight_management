@@ -1,0 +1,12 @@
+Flight inserted: Air India with ID 101
+Flight inserted: Emirates with ID 102
+Flight inserted: Air India with ID 101
+Displayed flight list
+Flight updated: ID 101, Arrival Time 0800 to Delayed with delay 30 mins
+Flight updated: ID 101, Arrival Time 0800 to Delayed with delay 30 mins
+Flight deleted: ID 102, Arrival Time 0900
+Displayed flight list
+Flight inserted: British Airways with ID 103
+Flight inserted: Emirates with ID 102
+Displayed flight list
+Displayed flight list
